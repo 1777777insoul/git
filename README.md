@@ -1,3 +1,0 @@
-# Project
-
-Initial Git project.
